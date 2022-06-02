@@ -21,14 +21,14 @@ hitungLuas(4,4)
 */
 
 
-
+/*
 function hurufRapih (kata) {
     return kata.split(' ').map(kata => kata.charAt(0).toUpperCase() + kata.substr(1)).join(' ')
   }
 const sample1 = "dignitas bka is the coolest academy"
 const hasil = hurufRapih(sample1)
 console.log(hasil)
-
+*/
 
 /*function reverseNum(num) {
 	return (
@@ -60,3 +60,5 @@ const konversiUang = (uangDari, Jumlah, UangKe) => {
 
 console.log( konversiUang("Dollar",1,"IDR"))
 */
+
+
